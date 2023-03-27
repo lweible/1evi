@@ -1,0 +1,26 @@
+///
+/// Editorial by HTML5 UP
+/// html5up.net | @ajlkn
+/// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+///
+
+/* Lists */
+
+	ul.lists {
+		cursor: default;
+		list-style: none;
+		padding-left: 0;
+		display: table; 
+		text-align: center; 
+		margin: 0 0 0 0;
+
+		li {
+			display: inline-block;
+    		text-align:center;
+		}
+
+		li.items_inside_li {
+			display:inline-block; 
+			vertical-align:middle;
+		}
+	}
